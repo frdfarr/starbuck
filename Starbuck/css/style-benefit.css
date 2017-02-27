@@ -1,0 +1,47 @@
+.wrap-head1{
+	width: 375px;
+	height: 50px;
+	background: #408916;
+}
+.button{
+	width: 97px;
+    height: 47px;
+    font-size: 30px;
+    color: #fff;
+    float: left;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+.menu-header{
+	width: 105px;
+    height: 30px;
+/*    background: red;*/
+    float: left;
+    color: #fff;
+    font-size: 20px;
+    margin-top: 15px;
+    margin-left: 25px;
+}
+.wrap-head2{
+	width: 375px;
+	height: 133px;
+	background: #fff;
+	
+}
+/*.wrap-head2 img{
+	float: left;
+}*/
+/*.selec-tab{
+	width: 150px;
+	height: 26px;
+	background: #333;
+	float: left;
+	position: absolute;
+	border: 0;
+	border-radius: 10px;
+	margin: 80px 0px 0px 115px;
+}*/
+.wrap-head3{
+	width: 375px;
+	height: 480px;
+}
